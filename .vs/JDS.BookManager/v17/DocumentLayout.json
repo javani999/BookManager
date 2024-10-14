@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\300088566\\source\\repos\\JDS.BookManager\\",
+  "WorkspaceRootPath": "C:\\Users\\jayva\\source\\repos\\BookManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BF16093-040D-4363-98BD-E8C3D48EAEF3}|JDS.BookManager\\JDS.BookManager.vcxproj|C:\\Users\\300088566\\source\\repos\\JDS.BookManager\\JDS.BookManager\\JDS.BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5BF16093-040D-4363-98BD-E8C3D48EAEF3}|JDS.BookManager\\JDS.BookManager.vcxproj|C:\\Users\\jayva\\source\\repos\\BookManager\\JDS.BookManager\\JDS.BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5BF16093-040D-4363-98BD-E8C3D48EAEF3}|JDS.BookManager\\JDS.BookManager.vcxproj|solutionrelative:JDS.BookManager\\JDS.BookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.41.34120\\include\\utility",
+              "ViewState": "AgIAAOMCAAAAAAAAAADwv/MCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T00:05:35.352Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "JDS.BookManager.cpp",
-              "DocumentMoniker": "C:\\Users\\300088566\\source\\repos\\JDS.BookManager\\JDS.BookManager\\JDS.BookManager.cpp",
+              "DocumentMoniker": "C:\\Users\\jayva\\source\\repos\\BookManager\\JDS.BookManager\\JDS.BookManager.cpp",
               "RelativeDocumentMoniker": "JDS.BookManager\\JDS.BookManager.cpp",
-              "ToolTip": "C:\\Users\\300088566\\source\\repos\\JDS.BookManager\\JDS.BookManager\\JDS.BookManager.cpp",
+              "ToolTip": "C:\\Users\\jayva\\source\\repos\\BookManager\\JDS.BookManager\\JDS.BookManager.cpp",
               "RelativeToolTip": "JDS.BookManager\\JDS.BookManager.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAADgvxgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-24T18:34:43.931Z",
               "EditorCaption": ""
